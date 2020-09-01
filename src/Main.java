@@ -4,6 +4,10 @@ public class Main {
     }
 
     public static void emilsOpgaver(){
+        //----------Opgave 1--------------------
+        EmilOpgave1 opgave1 = new EmilOpgave1();
+        opgave1.koerProgram();
+        //--------------------------------------
 
     }
 
